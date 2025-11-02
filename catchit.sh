@@ -1,4 +1,3 @@
-cat > orig-env-scan.sh <<'EOF'
 #!/bin/bash
 # Detects: Suspicious env vars
 
